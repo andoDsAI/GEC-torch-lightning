@@ -1,0 +1,17 @@
+__pycache__/
+.vscode/
+build/
+*.egg-info/
+*.so
+*.mp4
+*.DS_Store
+*.ipynb_checkpoints
+.idea/
+
+.env
+
+/data/
+outputs/
+logs/
+wandb/
+notebooks/
